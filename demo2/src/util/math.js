@@ -13,4 +13,4 @@ function square(x) {
     Math.stdSquare = 1;
     return x * x;
 }
-export var stdSquare = /*#__PURE__*/ square(1);
+export var stdSquare = square(1);
